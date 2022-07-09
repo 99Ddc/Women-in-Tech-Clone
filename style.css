@@ -112,7 +112,7 @@
         opacity:1;
         transition: all 0.5s ease;
         z-index:99;
-        height:80vh;
+        height:70vh;
         font-size: 1rem;
     }
 
@@ -149,8 +149,8 @@
         justify-content: center;
         align-items: center;
         width:40%;
-        height:80px;
-        margin:0 150px;
+        height:60px;
+        margin:0 110px;
         margin-bottom:66px;
     }
 
@@ -232,14 +232,14 @@
         grid-template-columns:1fr;
         align-items:center;
         justify-content: center;
-        width:100%;
+        width:80%;
         margin:0 auto;
         height:90%;
     }
 
     .hero__card{
        height:300px;
-       width:456px;
+       width:350px;
     }
 }
 
@@ -314,7 +314,7 @@
 
 @media screen and (max-width:480px){
     .about__link--items{
-        margin:100px;;
+        margin:50px;
         padding:1px;
         width:50%;
     }
